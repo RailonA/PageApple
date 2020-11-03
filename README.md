@@ -36,7 +36,7 @@ We made a clone of an Apple page. The page works best on a 1366x768 resolution a
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/realisticattorney/PageApple/issues).
 
 ## Show your support
 
