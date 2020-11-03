@@ -186,6 +186,7 @@ input {
   align-items: center;
   margin-top: 5%;
   position: fixed;
+  z-index: 999;
 }
 
 .titles > img {
