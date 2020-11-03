@@ -7,7 +7,7 @@
 We made a clone of an Apple page. The page works best on a 1366x768 resolution and using the firefox browser, assets might look out of place using other browsers or resolutions. The page was build using grid, flex and float to align all of the elements properly. We used background photos and the navbar at the top contains a gradient.
 
 
-![screenshot](./asset/apple-page.png)
+![screenshot](./asset/Screenshot.png)
  
 ## Built With
 
