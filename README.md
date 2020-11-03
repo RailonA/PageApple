@@ -4,11 +4,10 @@
 
 # Sign-Up-Simulator-page
 
-We made a clone of the New York Times page. The page works best on a 1366x768 resolution and using the firefox browser, assets might look out of place using other browsers or resolutions. The page was build using grid, flex and float to align all of the elements properly.
+We made a clone of an Apple page. The page works best on a 1366x768 resolution and using the firefox browser, assets might look out of place using other browsers or resolutions. The page was build using grid, flex and float to align all of the elements properly. We used background photos and the navbar at the top contains a gradient.
 
 
-
-![screenshot](./asset/)
+![screenshot](./asset/apple-page.png)
  
 ## Built With
 
@@ -18,7 +17,7 @@ We made a clone of the New York Times page. The page works best on a 1366x768 re
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://realisticattorney.github.io/PageApple/)
 
 👤 **Railon Acosta**
 
