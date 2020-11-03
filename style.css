@@ -34,6 +34,7 @@ body {
   background-image: url(./asset/your_verse_hero.jpg);
   grid-row: 1 / 1;
   grid-column: 1 / 1;
+  z-index: -1;
 }
 
 .section2 {
@@ -186,7 +187,7 @@ input {
   align-items: center;
   margin-top: 5%;
   position: fixed;
-  z-index: -1;
+  z-index: 1;
 }
 
 .titles > img {
