@@ -120,7 +120,6 @@ body {
   width: 80vh;
   margin-top: 5vh;
   border-radius: 1vh;
-  background: rgb(107, 107, 107);
   background: linear-gradient(0deg, rgba(107, 107, 107, 1) 10%, rgba(78, 74, 74, 1) 43%, rgba(107, 107, 107, 1) 71%);
   margin-left: 25%;
 }
@@ -146,28 +145,36 @@ input {
   justify-items: center;
   border-radius: 1vh;
   width: 100%;
-  padding: 0;
-  margin: 0;
+  margin: 0 1vh;
+  height: 2.5vh;
 }
 
 .fas {
-  position: absolute;
-  margin-right: 65%;
-  margin-top: 0.5vh;
-  padding: 0;
-  margin-left: 0;
+    position: absolute;
+    margin-left: 32%;
+    color: white;
+    font-size: 1.3vh;
 }
+.top-nav-bar > input > i {
 
-.top-nav-bar span {
+}
+.top-nav-bar a {
   display: inline-flex;
   justify-content: space-evenly;
   font-size: 1.5vh;
   background-color: transparent;
-  padding-left: 2vh;
+  padding: 2vh;
   height: 100%;
   color: white;
   font-weight: bold;
   position: relative;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+}
+
+.top-nav-bar a:hover {
+    background: linear-gradient(0deg, rgb(67, 67, 67) 10%, rgb(55, 51, 51) 43%, rgb(82, 82, 82) 71%);
 }
 
 .titles {
