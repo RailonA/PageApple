@@ -5,7 +5,7 @@
 
 html,
 body {
-    height: 128%;
+    height: 110%;
     width: 100%; 
     padding: 0px;
     margin: 0px; 
@@ -84,3 +84,43 @@ body {
     background-position-y: bottom;
     background-repeat: no-repeat;
 }
+
+.top-nav-bar{
+   display: flex;
+   height:6%;
+   align-items: center;
+   width:50%;
+   border-radius: 10px;
+   position: relative;
+   justify-items: center;
+   margin-top: 25px;
+   border-radius: 5px;
+   background: rgb(107,107,107);
+   background: linear-gradient(0deg, rgba(107,107,107,1) 10%, rgba(78,74,74,1) 43%, rgba(107,107,107,1) 71%);
+   margin-left: 25%;
+}
+input{
+
+    display: inline-flex;
+    background: linear-gradient(0deg, rgba(107,107,107,1) 10%, rgba(78,74,74,1) 43%, rgba(107,107,107,1) 71%);
+    justify-items: center;
+    border-radius: 5px;
+}
+
+.fas{
+    position: absolute; 
+    margin-right:16%;
+    margin-top: 6px;
+}
+
+.top-nav-bar span{
+    display:inline-flex;
+    justify-content: space-evenly;
+  font-size: 1.5vh;
+  background-color: transparent;
+  padding: 2vh;
+  height:100%;
+  color:white;
+  font-weight: bold;
+}
+
